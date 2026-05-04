@@ -15,7 +15,7 @@
     "calendar": "Google Calendar",
     "tasks": "local + optional sync",
     "notifications": "TBD",
-    "llm": "Claude API (claude-sonnet-4-20250514)"
+    "llm": "Ollama"
   },
   "paths": {
     "persona": "memory/persona/persona.json",
