@@ -40,4 +40,3 @@ AlterEgo/
 4. Build your agent logic in `core/`
 
 ---
-Built for: Your Majesty
