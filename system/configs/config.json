@@ -15,7 +15,7 @@
     "calendar": "Google Calendar",
     "tasks": "local + optional sync",
     "notifications": "TBD",
-    "llm": "Ollama"
+    "llm": "llama3.1:8b"
   },
   "paths": {
     "persona": "memory/persona/persona.json",
