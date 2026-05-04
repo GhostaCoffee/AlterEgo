@@ -1,0 +1,28 @@
+{
+  "agent_name": "AlterEgo",
+  "version": "0.1.0",
+  "owner": "Your Majesty",
+  "capabilities": [
+    "calendar_management",
+    "task_tracking",
+    "reminders",
+    "machine_control",
+    "time_management",
+    "goal_tracking",
+    "persona_memory"
+  ],
+  "integrations": {
+    "calendar": "Google Calendar",
+    "tasks": "local + optional sync",
+    "notifications": "TBD",
+    "llm": "Claude API (claude-sonnet-4-20250514)"
+  },
+  "paths": {
+    "persona": "memory/persona/persona.json",
+    "goals": "memory/goals/goals.md",
+    "history": "memory/history/",
+    "tasks": "tasks/",
+    "logs": "system/logs/"
+  },
+  "update_interval_minutes": 30
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Your Majesty",
+  "alter_ego_name": "AlterEgo",
+  "communication_style": "direct, casual, no fluff",
+  "core_traits": [
+    "entrepreneur",
+    "builder",
+    "systems thinker",
+    "decisive"
+  ],
+  "current_focus": "Makops - AI automation agency for businesses",
+  "values": [
+    "efficiency",
+    "ownership",
+    "execution over planning"
+  ],
+  "timezone": "PKT (UTC+5)",
+  "language": "English",
+  "notes": "Edit this file to keep the agent aligned with who you are."
+}
